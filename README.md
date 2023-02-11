@@ -11,3 +11,5 @@ It includes 4 APIs:
 3. /Book/MarsOff => No problem in any environment
 
 4. /Book/MarsOffAsync => No problem in any environment
+
+This application requires SQLServer, with a database named "MarsProblem" and a table called "book" on your machine.
